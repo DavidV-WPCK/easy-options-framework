@@ -1,11 +1,11 @@
-## Options Framework ##
+## Easy Options Framework ##
 
 **Tags:** options, theme options  
 **Requires at least:** 3.3  
 **Tested up to:** 3.5   
 **Stable tag:** 1.6
 **License:** GPLv2  
-**Donate link:** http://bit.ly/options-donate-2 
+**Forked from:** https://github.com/devinsays/options-framework-plugin
 
 ## Screenshot ##
 
