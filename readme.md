@@ -5,7 +5,7 @@
 **Tested up to:** 3.5   
 **Stable tag:** 1.6
 **License:** GPLv2  
-**Forked from:** https://github.com/devinsays/options-framework-plugin
+**Forked from:** https://github.com/devinsays/options-framework-plugin | http://bit.ly/options-donate-2
 
 ## Screenshot ##
 
